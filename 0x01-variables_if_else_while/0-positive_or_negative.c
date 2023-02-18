@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main -Check is a random number is positive or negative or zero number
  *
  * Return: 0 on sucess
  */
+
 int main(void)
 {
 	int n;
